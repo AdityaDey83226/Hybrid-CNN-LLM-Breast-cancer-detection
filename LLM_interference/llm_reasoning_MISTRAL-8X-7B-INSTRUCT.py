@@ -5,9 +5,9 @@ import time
 
 
 
-OPENROUTER_API_KEY = ""  ##Enter API keyb here
+OPENROUTER_API_KEY = ""  ##Enter API key here
 
-API_URL = "" # enetr the url link of model
+API_URL = "" # enter the url link of model
 
 MODEL = "mistralai/mixtral-8x7b-instruct"    #Enter model name here
 
@@ -66,7 +66,7 @@ Explanation: <Short reasoning>
         "messages": [
             {"role": "system", "content": system_prompt}
         ],
-        "temperature": 0.3,   # slightly higher → less bias
+        "temperature": 0.3,   
         "max_tokens": 300
     }
 
@@ -86,9 +86,7 @@ Explanation: <Short reasoning>
 
     return text
 
-# ------------------------------------------------
-# PARSE LLM OUTPUT
-# ------------------------------------------------
+
 
 def parse_response(text):
 
@@ -116,9 +114,6 @@ def parse_response(text):
     return diagnosis, confidence, explanation
 
 
-# ------------------------------------------------
-# MAIN LOOP
-# ------------------------------------------------
 
 records = []
 
