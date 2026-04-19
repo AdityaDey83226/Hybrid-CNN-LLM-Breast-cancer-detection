@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score, f1_score
 from prepare_data import create_dataloaders
 
 
-MAG_PATH = r"C:\Users\91826\Desktop\dataset_cancer_v1\classificacao_binaria\100X"
+MAG_PATH = r""
 MODEL_NAME = "mobilenetv3_small_100x.pth"
 
 
