@@ -3,18 +3,12 @@ import requests
 import pandas as pd
 import time
 
-# ------------------------------------------------
-# OPENROUTER API KEY
-# ------------------------------------------------
 
 OPENROUTER_API_KEY = ""  ##Enter API keyb here
 
 API_URL = "" # enetr the url link of model
 
 MODEL = "hermes-2-pro-llama-3-8b"    #Enter model name here
-# ------------------------------------------------
-# INPUT FILES
-# ------------------------------------------------
 
 FILES = {
     "40x": "prompts_40x.json",
@@ -23,9 +17,6 @@ FILES = {
     "400x": "prompts_400x.json"
 }
 
-# ------------------------------------------------
-# QUERY LLM
-# ------------------------------------------------
 
 def query_llm(original_prompt, cnn_prob, entropy):
 
@@ -73,7 +64,7 @@ Explanation: <Short reasoning>
         "messages": [
             {"role": "system", "content": system_prompt}
         ],
-        "temperature": 0.3,   # slightly higher → less bias
+        "temperature": 0.3,   
         "max_tokens": 300
     }
 
@@ -92,10 +83,6 @@ Explanation: <Short reasoning>
         return "Diagnosis: Unknown\nConfidence: Low\nExplanation: Invalid API response"
 
     return text
-
-# ------------------------------------------------
-# PARSE LLM OUTPUT
-# ------------------------------------------------
 
 def parse_response(text):
 
@@ -123,9 +110,6 @@ def parse_response(text):
     return diagnosis, confidence, explanation
 
 
-# ------------------------------------------------
-# MAIN LOOP
-# ------------------------------------------------
 
 records = []
 
@@ -162,11 +146,8 @@ for mag in FILES:
 
         print("Processed:", len(records))
 
-        time.sleep(1)  # prevents rate limit
+        time.sleep(1)  
 
-# ------------------------------------------------
-# SAVE RESULTS
-# ------------------------------------------------
 
 df = pd.DataFrame(records)
 
