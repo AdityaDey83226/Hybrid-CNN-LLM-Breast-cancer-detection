@@ -4,9 +4,9 @@ import pandas as pd
 import time
 
 
-OPENROUTER_API_KEY = ""  ##Enter API keyb here
+OPENROUTER_API_KEY = ""  ##Enter API key here
 
-API_URL = "" # enetr the url link of model
+API_URL = "" # enter the url link of model
 
 MODEL = "hermes-2-pro-llama-3-8b"    #Enter model name here
 
