@@ -1,0 +1,1290 @@
+[
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-001.png",
+        "magnification": "100x",
+        "probability": 0.29976395,
+        "entropy": 0.6106641,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.3\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-006.png",
+        "magnification": "100x",
+        "probability": 0.37260717,
+        "entropy": 0.6603287,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.373\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-007.png",
+        "magnification": "100x",
+        "probability": 0.53916883,
+        "entropy": 0.69007564,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.539\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-008.png",
+        "magnification": "100x",
+        "probability": 0.563621,
+        "entropy": 0.68503,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.564\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-009.png",
+        "magnification": "100x",
+        "probability": 0.38968658,
+        "entropy": 0.6686077,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.39\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-010.png",
+        "magnification": "100x",
+        "probability": 0.3791512,
+        "entropy": 0.66364706,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.379\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-018.png",
+        "magnification": "100x",
+        "probability": 0.45374948,
+        "entropy": 0.6888628,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.454\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-019.png",
+        "magnification": "100x",
+        "probability": 0.40776557,
+        "entropy": 0.6760349,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.408\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-020.png",
+        "magnification": "100x",
+        "probability": 0.44618082,
+        "entropy": 0.68734294,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.446\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-021.png",
+        "magnification": "100x",
+        "probability": 0.4850924,
+        "entropy": 0.69270265,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; High structural heterogeneity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- High structural heterogeneity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.485\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-022.png",
+        "magnification": "100x",
+        "probability": 0.6843155,
+        "entropy": 0.62357366,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.684\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-023.png",
+        "magnification": "100x",
+        "probability": 0.49392554,
+        "entropy": 0.6930734,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.494\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-024.png",
+        "magnification": "100x",
+        "probability": 0.54769045,
+        "entropy": 0.6885915,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.548\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-025.png",
+        "magnification": "100x",
+        "probability": 0.3397817,
+        "entropy": 0.6408906,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.34\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_A-14-22549AB-100-026.png",
+        "magnification": "100x",
+        "probability": 0.39828175,
+        "entropy": 0.6723088,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.398\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-14134-100-014.png",
+        "magnification": "100x",
+        "probability": 0.29731926,
+        "entropy": 0.6085758,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.297\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-14134-100-021.png",
+        "magnification": "100x",
+        "probability": 0.6284769,
+        "entropy": 0.6597613,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.628\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-14134-100-022.png",
+        "magnification": "100x",
+        "probability": 0.39410564,
+        "entropy": 0.6705492,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.394\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-14134E-100-003.png",
+        "magnification": "100x",
+        "probability": 0.29991972,
+        "entropy": 0.6107963,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.3\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-14134E-100-019.png",
+        "magnification": "100x",
+        "probability": 0.3318871,
+        "entropy": 0.635507,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.332\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-14134E-100-021.png",
+        "magnification": "100x",
+        "probability": 0.32416588,
+        "entropy": 0.6299698,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.324\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\benign\\SOB_B_F-14-29960AB-100-005.png",
+        "magnification": "100x",
+        "probability": 0.67548394,
+        "entropy": 0.6302268,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.675\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-002.png",
+        "magnification": "100x",
+        "probability": 0.6644765,
+        "entropy": 0.63802147,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.664\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-003.png",
+        "magnification": "100x",
+        "probability": 0.2876819,
+        "entropy": 0.6000631,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.288\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-004.png",
+        "magnification": "100x",
+        "probability": 0.48049784,
+        "entropy": 0.6923863,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.48\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-005.png",
+        "magnification": "100x",
+        "probability": 0.4503847,
+        "entropy": 0.68821573,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.45\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-006.png",
+        "magnification": "100x",
+        "probability": 0.41981843,
+        "entropy": 0.6802333,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.42\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-007.png",
+        "magnification": "100x",
+        "probability": 0.42009187,
+        "entropy": 0.6803216,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.42\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-008.png",
+        "magnification": "100x",
+        "probability": 0.48104775,
+        "entropy": 0.6924286,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.481\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-009.png",
+        "magnification": "100x",
+        "probability": 0.49550435,
+        "entropy": 0.6931068,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.496\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-010.png",
+        "magnification": "100x",
+        "probability": 0.7122566,
+        "entropy": 0.60011876,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; High structural heterogeneity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- High structural heterogeneity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.712\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-011.png",
+        "magnification": "100x",
+        "probability": 0.6666034,
+        "entropy": 0.63655806,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.667\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-012.png",
+        "magnification": "100x",
+        "probability": 0.48888007,
+        "entropy": 0.6928999,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.489\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-013.png",
+        "magnification": "100x",
+        "probability": 0.5690798,
+        "entropy": 0.68357253,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.569\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-016.png",
+        "magnification": "100x",
+        "probability": 0.54175365,
+        "entropy": 0.6896564,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.542\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-017.png",
+        "magnification": "100x",
+        "probability": 0.5543506,
+        "entropy": 0.68722755,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.554\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-019.png",
+        "magnification": "100x",
+        "probability": 0.6316212,
+        "entropy": 0.65808725,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.632\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-020.png",
+        "magnification": "100x",
+        "probability": 0.552954,
+        "entropy": 0.6875284,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.553\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-021.png",
+        "magnification": "100x",
+        "probability": 0.42139757,
+        "entropy": 0.6807391,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.421\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-022.png",
+        "magnification": "100x",
+        "probability": 0.69735765,
+        "entropy": 0.6130865,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.697\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-023.png",
+        "magnification": "100x",
+        "probability": 0.71214426,
+        "entropy": 0.60022056,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.712\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-025.png",
+        "magnification": "100x",
+        "probability": 0.5802962,
+        "entropy": 0.68019617,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.58\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-026.png",
+        "magnification": "100x",
+        "probability": 0.65704554,
+        "entropy": 0.64297575,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.657\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-027.png",
+        "magnification": "100x",
+        "probability": 0.4364964,
+        "entropy": 0.6850599,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.436\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-028.png",
+        "magnification": "100x",
+        "probability": 0.6445629,
+        "entropy": 0.6507476,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.645\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-029.png",
+        "magnification": "100x",
+        "probability": 0.5747232,
+        "entropy": 0.6819381,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.575\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-030.png",
+        "magnification": "100x",
+        "probability": 0.45020247,
+        "entropy": 0.6881794,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.45\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-032.png",
+        "magnification": "100x",
+        "probability": 0.32392856,
+        "entropy": 0.6297953,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.324\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-033.png",
+        "magnification": "100x",
+        "probability": 0.37797344,
+        "entropy": 0.6630633,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.378\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-034.png",
+        "magnification": "100x",
+        "probability": 0.6038747,
+        "entropy": 0.6714093,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.604\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-035.png",
+        "magnification": "100x",
+        "probability": 0.66085696,
+        "entropy": 0.64046544,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.661\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-036.png",
+        "magnification": "100x",
+        "probability": 0.45586377,
+        "entropy": 0.68924606,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.456\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-037.png",
+        "magnification": "100x",
+        "probability": 0.58886516,
+        "entropy": 0.677269,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.589\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-038.png",
+        "magnification": "100x",
+        "probability": 0.6262838,
+        "entropy": 0.66090393,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.626\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-039.png",
+        "magnification": "100x",
+        "probability": 0.5657539,
+        "entropy": 0.6844749,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.566\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-12312-100-040.png",
+        "magnification": "100x",
+        "probability": 0.49829754,
+        "entropy": 0.69314134,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.498\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-001.png",
+        "magnification": "100x",
+        "probability": 0.56045306,
+        "entropy": 0.6858201,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.56\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-006.png",
+        "magnification": "100x",
+        "probability": 0.6888093,
+        "entropy": 0.6200501,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.689\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-007.png",
+        "magnification": "100x",
+        "probability": 0.687803,
+        "entropy": 0.6208473,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.688\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-010.png",
+        "magnification": "100x",
+        "probability": 0.65023243,
+        "entropy": 0.6473026,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.65\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-011.png",
+        "magnification": "100x",
+        "probability": 0.65816945,
+        "entropy": 0.6422422,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.658\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-013.png",
+        "magnification": "100x",
+        "probability": 0.516696,
+        "entropy": 0.6925895,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.517\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-014.png",
+        "magnification": "100x",
+        "probability": 0.5606514,
+        "entropy": 0.6857718,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.561\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-015.png",
+        "magnification": "100x",
+        "probability": 0.62032926,
+        "entropy": 0.66390276,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.62\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-016.png",
+        "magnification": "100x",
+        "probability": 0.6221143,
+        "entropy": 0.66301954,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.622\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-018.png",
+        "magnification": "100x",
+        "probability": 0.68068594,
+        "entropy": 0.62635136,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.681\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-019.png",
+        "magnification": "100x",
+        "probability": 0.5213545,
+        "entropy": 0.6922349,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.521\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-020.png",
+        "magnification": "100x",
+        "probability": 0.62296164,
+        "entropy": 0.6625956,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.623\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-021.png",
+        "magnification": "100x",
+        "probability": 0.5669202,
+        "entropy": 0.68416363,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.567\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-024.png",
+        "magnification": "100x",
+        "probability": 0.5864072,
+        "entropy": 0.67813957,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.586\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-025.png",
+        "magnification": "100x",
+        "probability": 0.6039154,
+        "entropy": 0.6713921,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.604\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-026.png",
+        "magnification": "100x",
+        "probability": 0.69149315,
+        "entropy": 0.6179007,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.691\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-027.png",
+        "magnification": "100x",
+        "probability": 0.56754124,
+        "entropy": 0.6839956,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.568\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-028.png",
+        "magnification": "100x",
+        "probability": 0.58281976,
+        "entropy": 0.6793655,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.583\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-029.png",
+        "magnification": "100x",
+        "probability": 0.62711746,
+        "entropy": 0.66047204,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.627\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-030.png",
+        "magnification": "100x",
+        "probability": 0.4811079,
+        "entropy": 0.6924332,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.481\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-031.png",
+        "magnification": "100x",
+        "probability": 0.47267058,
+        "entropy": 0.69165266,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.473\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-032.png",
+        "magnification": "100x",
+        "probability": 0.3656117,
+        "entropy": 0.6565788,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.366\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-033.png",
+        "magnification": "100x",
+        "probability": 0.46955255,
+        "entropy": 0.6912919,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.47\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-034.png",
+        "magnification": "100x",
+        "probability": 0.708741,
+        "entropy": 0.6032751,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.709\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-036.png",
+        "magnification": "100x",
+        "probability": 0.6459938,
+        "entropy": 0.6498914,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.646\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-038.png",
+        "magnification": "100x",
+        "probability": 0.5126293,
+        "entropy": 0.6928282,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.513\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-039.png",
+        "magnification": "100x",
+        "probability": 0.6454378,
+        "entropy": 0.65022516,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.645\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-040.png",
+        "magnification": "100x",
+        "probability": 0.70160645,
+        "entropy": 0.60949695,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.702\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-13993-100-041.png",
+        "magnification": "100x",
+        "probability": 0.5887474,
+        "entropy": 0.67731124,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.589\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-002.png",
+        "magnification": "100x",
+        "probability": 0.44876614,
+        "entropy": 0.68788815,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.449\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-003.png",
+        "magnification": "100x",
+        "probability": 0.46566775,
+        "entropy": 0.6907879,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.466\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-004.png",
+        "magnification": "100x",
+        "probability": 0.34045044,
+        "entropy": 0.6413338,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.34\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-005.png",
+        "magnification": "100x",
+        "probability": 0.55027705,
+        "entropy": 0.68808305,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.55\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-006.png",
+        "magnification": "100x",
+        "probability": 0.46019292,
+        "entropy": 0.68997467,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.46\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-009.png",
+        "magnification": "100x",
+        "probability": 0.6463928,
+        "entropy": 0.64965105,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.646\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-011.png",
+        "magnification": "100x",
+        "probability": 0.44048172,
+        "entropy": 0.68604547,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.44\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-014.png",
+        "magnification": "100x",
+        "probability": 0.65757406,
+        "entropy": 0.64263153,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.658\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-015.png",
+        "magnification": "100x",
+        "probability": 0.5103288,
+        "entropy": 0.6929338,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; High structural heterogeneity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- High structural heterogeneity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.51\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-017.png",
+        "magnification": "100x",
+        "probability": 0.36940935,
+        "entropy": 0.65864056,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.369\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-018.png",
+        "magnification": "100x",
+        "probability": 0.50445086,
+        "entropy": 0.6931076,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.504\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-019.png",
+        "magnification": "100x",
+        "probability": 0.68959814,
+        "entropy": 0.61942184,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.69\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-020.png",
+        "magnification": "100x",
+        "probability": 0.49250084,
+        "entropy": 0.6930347,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.493\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-021.png",
+        "magnification": "100x",
+        "probability": 0.4722867,
+        "entropy": 0.69161034,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.472\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-022.png",
+        "magnification": "100x",
+        "probability": 0.43829983,
+        "entropy": 0.6855139,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.438\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-023.png",
+        "magnification": "100x",
+        "probability": 0.54562706,
+        "entropy": 0.6889777,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.546\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-024.png",
+        "magnification": "100x",
+        "probability": 0.62237036,
+        "entropy": 0.66289175,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.622\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-025.png",
+        "magnification": "100x",
+        "probability": 0.3574731,
+        "entropy": 0.6519505,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.357\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-027.png",
+        "magnification": "100x",
+        "probability": 0.35984957,
+        "entropy": 0.65333164,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.36\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-028.png",
+        "magnification": "100x",
+        "probability": 0.5233223,
+        "entropy": 0.6920589,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.523\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-029.png",
+        "magnification": "100x",
+        "probability": 0.5169081,
+        "entropy": 0.69257534,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.517\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-030.png",
+        "magnification": "100x",
+        "probability": 0.52357423,
+        "entropy": 0.69203526,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.524\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-031.png",
+        "magnification": "100x",
+        "probability": 0.5430636,
+        "entropy": 0.6894336,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.543\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-14946-100-032.png",
+        "magnification": "100x",
+        "probability": 0.3489969,
+        "entropy": 0.6468234,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.349\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-15696-100-022.png",
+        "magnification": "100x",
+        "probability": 0.6686815,
+        "entropy": 0.6351085,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.669\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-001.png",
+        "magnification": "100x",
+        "probability": 0.658918,
+        "entropy": 0.6417505,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.659\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-005.png",
+        "magnification": "100x",
+        "probability": 0.70440876,
+        "entropy": 0.60708237,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.704\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-009.png",
+        "magnification": "100x",
+        "probability": 0.55995786,
+        "entropy": 0.6859399,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.56\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-010.png",
+        "magnification": "100x",
+        "probability": 0.5028439,
+        "entropy": 0.69313097,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.503\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-013.png",
+        "magnification": "100x",
+        "probability": 0.5822726,
+        "entropy": 0.67954785,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.582\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-014.png",
+        "magnification": "100x",
+        "probability": 0.6598757,
+        "entropy": 0.64111793,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; High structural heterogeneity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- High structural heterogeneity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.66\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-17915-100-015.png",
+        "magnification": "100x",
+        "probability": 0.55613005,
+        "entropy": 0.6868327,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.556\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-003.png",
+        "magnification": "100x",
+        "probability": 0.66310894,
+        "entropy": 0.6389517,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.663\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-004.png",
+        "magnification": "100x",
+        "probability": 0.5697914,
+        "entropy": 0.6833736,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.57\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-005.png",
+        "magnification": "100x",
+        "probability": 0.5863745,
+        "entropy": 0.678151,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.586\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-006.png",
+        "magnification": "100x",
+        "probability": 0.63561386,
+        "entropy": 0.6559001,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.636\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-007.png",
+        "magnification": "100x",
+        "probability": 0.61741894,
+        "entropy": 0.66531354,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.617\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-008.png",
+        "magnification": "100x",
+        "probability": 0.6409186,
+        "entropy": 0.6528878,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.641\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-009.png",
+        "magnification": "100x",
+        "probability": 0.6928199,
+        "entropy": 0.61682576,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.693\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-010.png",
+        "magnification": "100x",
+        "probability": 0.53080106,
+        "entropy": 0.69124854,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.531\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-011.png",
+        "magnification": "100x",
+        "probability": 0.70461017,
+        "entropy": 0.60690737,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.705\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-012.png",
+        "magnification": "100x",
+        "probability": 0.6772456,
+        "entropy": 0.62892824,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.677\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-013.png",
+        "magnification": "100x",
+        "probability": 0.44297907,
+        "entropy": 0.68663025,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; High structural heterogeneity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- High structural heterogeneity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.443\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-014.png",
+        "magnification": "100x",
+        "probability": 0.63196075,
+        "entropy": 0.6579039,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.632\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-015.png",
+        "magnification": "100x",
+        "probability": 0.5998087,
+        "entropy": 0.67308915,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.6\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-016.png",
+        "magnification": "100x",
+        "probability": 0.6109524,
+        "entropy": 0.6683202,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.611\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-017.png",
+        "magnification": "100x",
+        "probability": 0.5839864,
+        "entropy": 0.6789726,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; High structural heterogeneity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- High structural heterogeneity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.584\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-018.png",
+        "magnification": "100x",
+        "probability": 0.66475075,
+        "entropy": 0.6378339,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.665\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-020.png",
+        "magnification": "100x",
+        "probability": 0.5892168,
+        "entropy": 0.6771424,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.589\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-022.png",
+        "magnification": "100x",
+        "probability": 0.60245246,
+        "entropy": 0.67200476,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.602\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-024.png",
+        "magnification": "100x",
+        "probability": 0.6478247,
+        "entropy": 0.64878285,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.648\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-025.png",
+        "magnification": "100x",
+        "probability": 0.6680221,
+        "entropy": 0.6355705,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.668\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-027.png",
+        "magnification": "100x",
+        "probability": 0.52748376,
+        "entropy": 0.6916357,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.527\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-028.png",
+        "magnification": "100x",
+        "probability": 0.6907343,
+        "entropy": 0.6185119,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.691\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-030.png",
+        "magnification": "100x",
+        "probability": 0.7032859,
+        "entropy": 0.6080544,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.703\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_DC-14-20629-100-031.png",
+        "magnification": "100x",
+        "probability": 0.53810376,
+        "entropy": 0.69024056,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.538\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-001.png",
+        "magnification": "100x",
+        "probability": 0.6582244,
+        "entropy": 0.64220625,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.658\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-002.png",
+        "magnification": "100x",
+        "probability": 0.47054547,
+        "entropy": 0.691411,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.471\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-003.png",
+        "magnification": "100x",
+        "probability": 0.5608327,
+        "entropy": 0.6857276,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.561\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-004.png",
+        "magnification": "100x",
+        "probability": 0.5061358,
+        "entropy": 0.6930719,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.506\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-005.png",
+        "magnification": "100x",
+        "probability": 0.39418745,
+        "entropy": 0.6705844,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.394\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-008.png",
+        "magnification": "100x",
+        "probability": 0.29300192,
+        "entropy": 0.6048177,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.293\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-010.png",
+        "magnification": "100x",
+        "probability": 0.42299294,
+        "entropy": 0.68123966,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.423\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-011.png",
+        "magnification": "100x",
+        "probability": 0.62619567,
+        "entropy": 0.6609494,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.626\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-013.png",
+        "magnification": "100x",
+        "probability": 0.58988714,
+        "entropy": 0.67689955,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.59\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-014.png",
+        "magnification": "100x",
+        "probability": 0.6710408,
+        "entropy": 0.6334391,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.671\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-015.png",
+        "magnification": "100x",
+        "probability": 0.43130758,
+        "entropy": 0.68367994,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.431\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-016.png",
+        "magnification": "100x",
+        "probability": 0.6169073,
+        "entropy": 0.66555786,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.617\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-017.png",
+        "magnification": "100x",
+        "probability": 0.51120305,
+        "entropy": 0.6928961,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.511\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-018.png",
+        "magnification": "100x",
+        "probability": 0.47313395,
+        "entropy": 0.6917029,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.473\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-019.png",
+        "magnification": "100x",
+        "probability": 0.35773176,
+        "entropy": 0.652102,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.358\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-021.png",
+        "magnification": "100x",
+        "probability": 0.6602735,
+        "entropy": 0.6408539,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.66\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-022.png",
+        "magnification": "100x",
+        "probability": 0.69165814,
+        "entropy": 0.6177676,
+        "descriptors": "Moderate activation intensity; Widespread activation regions; High structural heterogeneity; Fragmented activation pattern",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Widespread activation regions\n- High structural heterogeneity\n- Fragmented activation pattern\n\nVision Model Probability of Malignancy: 0.692\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-023.png",
+        "magnification": "100x",
+        "probability": 0.61482424,
+        "entropy": 0.6665412,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.615\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-024.png",
+        "magnification": "100x",
+        "probability": 0.55976665,
+        "entropy": 0.685986,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.56\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    },
+    {
+        "image_path": "C:\\Users\\91826\\Desktop\\dataset_cancer_v1\\classificacao_binaria\\100X\\malignant\\SOB_M_MC-14-12773-100-025.png",
+        "magnification": "100x",
+        "probability": 0.57050884,
+        "entropy": 0.6831709,
+        "descriptors": "Moderate activation intensity; Localized activation clusters; Moderate structural uniformity; Compact activation structure",
+        "prompt": "Visual Findings:\n- Moderate activation intensity\n- Localized activation clusters\n- Moderate structural uniformity\n- Compact activation structure\n\nVision Model Probability of Malignancy: 0.571\n\nTask:\nBased on the visual descriptors and model probability, determine whether the breast tissue sample is BENIGN or MALIGNANT.\n\nProvide:\n1. Final diagnosis (Benign or Malignant)\n2. Confidence level (Low / Medium / High)\n3. Brief explanation based on the descriptors."
+    }
+]
