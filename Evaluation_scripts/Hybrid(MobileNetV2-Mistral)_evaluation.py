@@ -18,7 +18,7 @@ np.random.seed(42)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-llm_df = pd.read_csv("llm_predictions_test_without_few_shot.csv")
+llm_df = pd.read_csv("llm_predictions_MISTRAL.csv")
 edge_paths = set(llm_df["image_path"])
 llm_df["llm_pred"] = llm_df["llm_diagnosis"].map({"Benign": 0, "Malignant": 1})
 
