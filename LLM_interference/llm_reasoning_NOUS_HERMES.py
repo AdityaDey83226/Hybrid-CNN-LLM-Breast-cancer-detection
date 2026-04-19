@@ -154,5 +154,5 @@ df = pd.DataFrame(records)
 df.to_csv("llm_predictions_NOUS_HERMES.csv", index=False)
 
 print("\nLLM reasoning complete")
-print("Saved: llm_predictions_test_without_few_shot.csv")
+print("Saved: llm_predictions_NOUS_HERMES.csv")
 print("Total processed:", len(records))
