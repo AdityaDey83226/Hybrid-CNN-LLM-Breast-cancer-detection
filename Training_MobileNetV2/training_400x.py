@@ -35,7 +35,6 @@ def main():
     weights = MobileNet_V2_Weights.DEFAULT
     model = models.mobilenet_v2(weights=weights)
 
-    # Freeze early layers (reduce overfitting + faster training)
     for param in model.features[:10].parameters():
         param.requires_grad = False
 
@@ -65,7 +64,6 @@ def main():
 
     for epoch in range(EPOCHS):
 
-        # -------- TRAIN --------
         model.train()
         train_loss = 0
         train_preds = []
@@ -99,7 +97,6 @@ def main():
         train_rec = recall_score(train_labels, train_preds)
         train_f1 = f1_score(train_labels, train_preds)
 
-        # -------- VALIDATION --------
         model.eval()
         val_loss = 0
         val_preds = []
@@ -141,7 +138,6 @@ def main():
         print(f"Train Acc: {train_acc:.4f} | Val Acc: {val_acc:.4f}")
         print(f"Train F1: {train_f1:.4f} | Val F1: {val_f1:.4f}")
 
-        # Save best model based on validation F1
         if val_f1 > best_val_f1:
             best_val_f1 = val_f1
             torch.save(model.state_dict(), MODEL_NAME)
