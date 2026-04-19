@@ -152,8 +152,8 @@ for mag in FILES:
 
 df = pd.DataFrame(records)
 
-df.to_csv("llm_predictions_test_without_few_shot.csv", index=False)
+df.to_csv("llm_predictions_PHI-4.csv", index=False)
 
 print("\nLLM reasoning complete")
-print("Saved: llm_predictions_test_without_few_shot.csv")
+print("Saved: llm_predictions_PHI-4.csv")
 print("Total processed:", len(records))
