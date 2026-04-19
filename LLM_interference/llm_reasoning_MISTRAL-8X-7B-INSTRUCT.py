@@ -3,18 +3,14 @@ import requests
 import pandas as pd
 import time
 
-# ------------------------------------------------
-# OPENROUTER API KEY
-# ------------------------------------------------
+
 
 OPENROUTER_API_KEY = ""  ##Enter API keyb here
 
 API_URL = "" # enetr the url link of model
 
 MODEL = "mistralai/mixtral-8x7b-instruct"    #Enter model name here
-# ------------------------------------------------
-# INPUT FILES
-# ------------------------------------------------
+
 
 FILES = {
     "40x": "prompts_40x.json",
@@ -23,9 +19,6 @@ FILES = {
     "400x": "prompts_400x.json"
 }
 
-# ------------------------------------------------
-# QUERY LLM
-# ------------------------------------------------
 
 def query_llm(original_prompt, cnn_prob, entropy):
 
@@ -162,11 +155,9 @@ for mag in FILES:
 
         print("Processed:", len(records))
 
-        time.sleep(1)  # prevents rate limit
+        time.sleep(1)  
 
-# ------------------------------------------------
-# SAVE RESULTS
-# ------------------------------------------------
+
 
 df = pd.DataFrame(records)
 
