@@ -4,9 +4,9 @@ import pandas as pd
 import time
 
 
-OPENROUTER_API_KEY = ""  ##Enter API keyb here
+OPENROUTER_API_KEY = ""  ##Enter API key here
 
-API_URL = "" # enetr the url link of model
+API_URL = "" # enter the url link of model
 
 MODEL = "microsoft/phi-4"    #Enter model name here
 
@@ -147,7 +147,7 @@ for mag in FILES:
 
         print("Processed:", len(records))
 
-        time.sleep(1)  # prevents rate limit
+        time.sleep(1)
 
 
 df = pd.DataFrame(records)
