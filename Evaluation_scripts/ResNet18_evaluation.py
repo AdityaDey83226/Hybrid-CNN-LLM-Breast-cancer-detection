@@ -20,14 +20,14 @@ if not os.path.exists(PLOT_DIR):
 
 
 CONFIG = {
-    "40x": {"model": "resnet18_40x.pth",
-            "data_path": r"C:\Users\91826\Desktop\dataset_cancer_v1\classificacao_binaria\40X"},
-    "100x": {"model": "resnet18_100x.pth",
-             "data_path": r"C:\Users\91826\Desktop\dataset_cancer_v1\classificacao_binaria\100X"},
-    "200x": {"model": "resnet18_200x.pth",
-             "data_path": r"C:\Users\91826\Desktop\dataset_cancer_v1\classificacao_binaria\200X"},
-    "400x": {"model": "resnet18_400x.pth",
-             "data_path": r"C:\Users\91826\Desktop\dataset_cancer_v1\classificacao_binaria\400X"}
+    "40x": {"model": "",#example-resnet18_40x.pth
+            "data_path": r""},
+    "100x": {"model": "",#example-resnet18_100x.pth
+             "data_path": r""},
+    "200x": {"model": "",#example-resnet18_200x.pth
+             "data_path": r""},
+    "400x": {"model": "",#example-resnet18_400x.pth
+             "data_path": r""}
 }
 
 all_true = []
